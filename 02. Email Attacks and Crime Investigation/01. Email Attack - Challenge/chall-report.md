@@ -46,6 +46,25 @@ The this ip is owned by ```thcservers.com```
 This i a spoof mail, As the sender is using servers from Romaina. Also the domain ```in.airtel.com``` is not owned by airtel.
 Is it was a hacked account, the domain would have been airtel.in. Also in the message id it shows ```<CALn1_W-vBUf+sfqw1BHT8hYu1pzdB3VS6bcPLGGTgT8KonWwJw@91.235.116.230>```, Which clearly defines it is a spoof email.
 
+## 2.1 Proof that attachement is malicious or safe
+
+Strings of the file show some malicious behavoirs making http requests.
+
+<img width="420" height="178" alt="image" src="https://github.com/user-attachments/assets/733c535d-ca61-4c54-8554-d314c5010d53" />
+
+## 2.2 Malware names that are attached to the file.
+
+
+## 2.3 Running Location of malware in the system.
+
+The strings of the file again show where are malware is intended to run
+
+<img width="899" height="109" alt="image" src="https://github.com/user-attachments/assets/1a25f705-dd49-40e2-906d-164ac9d8a03b" />
+
+
+## 2.4 Types of Malware and how it impacts the system etc.
+
+
 ## 3 Find out its a real page of fake
 
 This is a 3D phising attack, as the link contains a base64 encoded string in the url 
