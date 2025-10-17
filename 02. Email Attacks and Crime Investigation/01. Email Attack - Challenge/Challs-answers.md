@@ -13,9 +13,9 @@
 **Answers**
 
 1. This email is fake, as the message id suggests, and the link suggests [Explained Here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#1-evidence-that-proof-mail-is-fake-or-real)
-2. The email came from Iancu Jianu, Romania, [Explained Here]([https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#1-evidence-that-proof-mail-is-fake-or-real](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#12-find-the-location-from-where-the-mail-came))
-3. Senders mail server is Tipzor Media SRL [Explained Here]([https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#1-evidence-that-proof-mail-is-fake-or-real](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#13-mail-server-name-with-evidence-etc))
-4. It is a spoof mail [Explained Here]([https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#1-evidence-that-proof-mail-is-fake-or-real](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#14-find-out-its-a-spoof-mail-or-its-sent-by-hacked-account))
+2. The email came from Iancu Jianu, Romania, [Explained Here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#12-find-the-location-from-where-the-mail-came)
+3. Senders mail server is Tipzor Media SRL [Explained Here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#13-mail-server-name-with-evidence-etc)
+4. It is a spoof mail [Explained Here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#14-find-out-its-a-spoof-mail-or-its-sent-by-hacked-account)
 
 <br>
 
@@ -48,7 +48,7 @@ Link - https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fm
 ```
 **Answers**
 
-This is a 3D phising (Advance Phising link). [Explained Here]()
+This is a 3D phising (Advance Phising link). [Explained Here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#3-find-out-its-a-real-page-of-fake)
 
 <br>
 
@@ -62,5 +62,5 @@ This is a 3D phising (Advance Phising link). [Explained Here]()
 
 **Answers**
 
-The string b is homoglyph attack [Explained Here]( )
+The string b is homoglyph attack [Explained Here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#4-which-one-is-correct-from-the-options-below)
 
