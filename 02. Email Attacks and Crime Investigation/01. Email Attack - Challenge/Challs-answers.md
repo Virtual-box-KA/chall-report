@@ -33,7 +33,7 @@
 **Answers**
 
 1. Given file is a malicious file [Explained here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#21-proof-that-attachement-is-malicious-or-safe)
-2. 
+2. Malware here seems to be AsyncRat
 3. Running location - ```C:\Users\\AppData\Local\Temp\Rar$EXb0.609\svchost.exe``` [Explained Here](https://github.com/Virtual-box-KA/chall-report/blob/main/02.%20Email%20Attacks%20and%20Crime%20Investigation/01.%20Email%20Attack%20-%20Challenge/chall-report.md#23-running-location-of-malware-in-the-system)
 4. Type of malware - RAT, Gives command and control(C2) access of the system to the threat actor. 
 
